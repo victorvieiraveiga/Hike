@@ -1,7 +1,7 @@
 # Hike
 Hiking App
 
-App desenvolvido na Master Class em SwiftUI da  [Creedo](https:\\creedo.academy)
+App desenvolvido na Master Class em SwiftUI da  [Credo Academy](https:\\credo.academy)
 
 Neste app pude desenvolver as skills: Listas, Scroll, Botões customizados, bottom sheet e animações.
 Linguagem utilizada: SWIFTUI
